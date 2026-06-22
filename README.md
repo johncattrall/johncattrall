@@ -31,8 +31,17 @@ Reach me: [john@awareai.io](mailto:john@awareai.io) · [LinkedIn](https://www.li
   <strong><a href="https://lapfly.com">Lapfly</a></strong><br/>
   AI-powered motorsport data analysis. Drop in a MoTeC, AiM, i2m, RaceChrono or GPS file and get a plain-English lap debrief, auto-detected braking markers, trail-braking depth, shift advice, delta-time, and public leaderboards. Built for riders, coaches, and race teams.
 </td>
-</tr>
+</tr>  
 <tr>
+<td width="140" align="center" valign="middle">
+  <a href="https://mudwatch.com"><img src="https://mudwatch.com/mudwatch-logo-splatter.png" alt="MudWatch" width="100" /></a>
+</td>
+<td valign="middle">
+  <strong><a href="https://mudwatch.com">MudWatch</a></strong><br/>
+  Trail-condition forecasts for mountain bikers. Goes beyond "is it raining?" to model 3-day accumulated rainfall, surface type, trail grade, and drainage so you can pick the right trail for the day. Strava integration auto-annotates rides with conditions.
+</td>
+</tr>
+<tr>  
 <td width="140" align="center" valign="middle">
   <a href="https://floodmonitor.ai.aware.co.th/"><img src="https://awareai.io/assets/AwareAI_logo-DcnYuIjv.svg" alt="AwareAI" width="110" /></a>
 </td>
@@ -82,7 +91,7 @@ Smaller open-source bits (CloudFormation snippets, ECR/Anchore tooling, Terrafor
 
 A lot of what I build traces back to what I ride.
 
-- Mountain biking: mostly downhill
+- Mountain biking: mostly downhill, the reason [MudWatch](https://mudwatch.com) exists
 - Motorbike track racing: the reason [Lapfly](https://lapfly.com) exists
 - Road cycling: the weekly constant
 - Former BMX and trials rider: old habits, still useful
