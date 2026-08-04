@@ -111,18 +111,6 @@ A lot of what I build traces back to what I ride.
 
 [john@awareai.io](mailto:john@awareai.io)
 
----
-
-## GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/johncattrall">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=johncattrall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncattrall&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" />
-</a>
-
-</div>
 
 ---
 
