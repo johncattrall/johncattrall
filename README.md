@@ -43,7 +43,7 @@ Reach me: [john@awareai.io](mailto:john@awareai.io) · [LinkedIn](https://www.li
 </tr>
 <tr>  
 <td width="140" align="center" valign="middle">
-  <a href="https://floodmonitor.ai.aware.co.th/"><img src="https://awareai.io/assets/AwareAI_logo-DcnYuIjv.svg" alt="AwareAI" width="110" /></a>
+  <a href="https://flood.awareai.io/"><img src="https://awareai.io/assets/AwareAI_logo-DcnYuIjv.svg" alt="AwareAI" width="110" /></a>
 </td>
 <td valign="middle">
   <strong><a href="https://floodmonitor.ai.aware.co.th/">River Ping Flood Monitor</a></strong><br/>
