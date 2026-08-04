@@ -101,7 +101,7 @@ A lot of what I build traces back to what I ride.
 
 ## We're hiring
 
-<a href="https://awareai.io"><img src="https://awareai.io/assets/AwareAI_logo-DcnYuIjv.svg" alt="AwareAI" height="28" /></a> is growing. If you're an engineer or AI/ML practitioner excited about agentic systems for real cloud operations, say hello.
+<a href="https://awareai.io"><img src="https://awareai.io/awareai-logo.svg" alt="AwareAI" height="28" /></a> is growing. If you're an engineer or AI/ML practitioner excited about agentic systems for real cloud operations, say hello.
 
 <p>
   <img src="https://img.shields.io/badge/Chiang%20Mai-Open-2ea44f?style=for-the-badge" />
